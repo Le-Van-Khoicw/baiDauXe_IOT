@@ -1,4 +1,4 @@
-<img width="4004" height="1604" alt="image" src="https://github.com/user-attachments/assets/9fc2c01c-55bb-4b80-aea2-bc4e041bdb92" /># 🚗 ParkOS - Enterprise Smart Parking Management System (IoT & AI)
+# 🚗 ParkOS - Enterprise Smart Parking Management System (IoT & AI)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg)
