@@ -14,9 +14,7 @@ Hệ thống giải quyết bài toán cốt lõi của các bãi giữ xe hiệ
 ---
 
 ## 🏗️ Kiến Trúc Hệ Thống (System Architecture)
-
-<img width="4004" height="1604" alt="image" src="https://github.com/user-attachments/assets/134417d2-edde-4828-a46a-dd47511cb846" />
-
+<img width="4004" height="1756" alt="image" src="https://github.com/user-attachments/assets/bba315e2-c605-4c11-8ed7-971b4ce6655f" />
 
 Hệ thống được chia làm 3 phân hệ hoạt động độc lập nhưng đồng bộ:
 1. **Edge Device (Phần cứng IoT):** Thu thập tín hiệu thẻ RFID, giao tiếp qua cổng COM (Serial Port) với máy tính trạm.
