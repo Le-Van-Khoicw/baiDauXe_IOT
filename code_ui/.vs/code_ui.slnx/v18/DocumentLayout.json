@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\it\\iot\\cuoiKi\\code_ui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C450A513-06D0-46E8-87F0-B3C1328C3C2D}|code_ui\\code_ui.csproj|d:\\it\\iot\\cuoiki\\code_ui\\code_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C450A513-06D0-46E8-87F0-B3C1328C3C2D}|code_ui\\code_ui.csproj|solutionrelative:code_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C450A513-06D0-46E8-87F0-B3C1328C3C2D}|code_ui\\code_ui.csproj|D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C450A513-06D0-46E8-87F0-B3C1328C3C2D}|code_ui\\code_ui.csproj|solutionrelative:code_ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 191,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs",
+              "RelativeDocumentMoniker": "code_ui\\Form1.cs",
+              "ToolTip": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs",
+              "RelativeToolTip": "code_ui\\Form1.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAADYBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:57:35.655Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs",
+              "RelativeDocumentMoniker": "code_ui\\Form1.cs",
+              "ToolTip": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs [Design]",
+              "RelativeToolTip": "code_ui\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:50:12.436Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
