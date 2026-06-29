@@ -1,4 +1,4 @@
-# 🚗 ParkOS - Enterprise Smart Parking Management System (IoT & AI)
+<img width="4004" height="1604" alt="image" src="https://github.com/user-attachments/assets/9fc2c01c-55bb-4b80-aea2-bc4e041bdb92" /># 🚗 ParkOS - Enterprise Smart Parking Management System (IoT & AI)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.1.0-brightgreen.svg)
@@ -14,8 +14,9 @@ Hệ thống giải quyết bài toán cốt lõi của các bãi giữ xe hiệ
 ---
 
 ## 🏗️ Kiến Trúc Hệ Thống (System Architecture)
-*(Gợi ý: Mày nên vẽ 1 cái hình sơ đồ luồng chạy từ Arduino -> C# -> Firebase -> Web dán vào đây)*
-![System Architecture](link_anh_so_do_cua_may_vao_day.png)
+
+<img width="4004" height="1604" alt="image" src="https://github.com/user-attachments/assets/134417d2-edde-4828-a46a-dd47511cb846" />
+
 
 Hệ thống được chia làm 3 phân hệ hoạt động độc lập nhưng đồng bộ:
 1. **Edge Device (Phần cứng IoT):** Thu thập tín hiệu thẻ RFID, giao tiếp qua cổng COM (Serial Port) với máy tính trạm.
