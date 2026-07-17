@@ -75,3 +75,12 @@ D:\it\iot\cuoiKi\code_ui\code_ui\bin\x64\Debug\Microsoft.Threading.Tasks.Extensi
 D:\it\iot\cuoiKi\code_ui\code_ui\bin\x64\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
 D:\it\iot\cuoiKi\code_ui\code_ui\bin\x64\Debug\System.Net.Http.Extensions.xml
 D:\it\iot\cuoiKi\code_ui\code_ui\bin\x64\Debug\System.Net.Http.Primitives.xml
+D:\it\iot\cuoiKi\code_ui\build-check\dll\x64\OpenCvSharpExtern.dll
+D:\it\iot\cuoiKi\code_ui\build-check\dll\x64\opencv_videoio_ffmpeg4130_64.dll
+D:\it\iot\cuoiKi\code_ui\build-check\x86\leptonica-1.82.0.dll
+D:\it\iot\cuoiKi\code_ui\build-check\x86\tesseract50.dll
+D:\it\iot\cuoiKi\code_ui\build-check\x64\leptonica-1.82.0.dll
+D:\it\iot\cuoiKi\code_ui\build-check\x64\tesseract50.dll
+D:\it\iot\cuoiKi\code_ui\build-check\code_ui.exe.config
+D:\it\iot\cuoiKi\code_ui\build-check\code_ui.exe
+D:\it\iot\cuoiKi\code_ui\build-check\code_ui.pdb

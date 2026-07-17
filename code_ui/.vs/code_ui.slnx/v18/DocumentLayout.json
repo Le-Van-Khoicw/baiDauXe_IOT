@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs",
               "RelativeDocumentMoniker": "code_ui\\Form1.cs",
-              "ToolTip": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs",
-              "RelativeToolTip": "code_ui\\Form1.cs",
-              "ViewState": "AgIAACgBAAAAAAAAAAAAADYBAAARAAAAAAAAAA==",
+              "ToolTip": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs*",
+              "RelativeToolTip": "code_ui\\Form1.cs*",
+              "ViewState": "AgIAACoCAAAAAAAAAAAawEICAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-27T11:57:35.655Z",
               "IsPinned": true,
@@ -43,8 +43,7 @@
               "ToolTip": "D:\\it\\iot\\cuoiKi\\code_ui\\code_ui\\Form1.cs [Design]",
               "RelativeToolTip": "code_ui\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T11:50:12.436Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-06-27T11:50:12.436Z"
             }
           ]
         }

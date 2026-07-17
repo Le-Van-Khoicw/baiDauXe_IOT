@@ -1,0 +1,24 @@
+# IDE/build outputs
+.vs/
+**/bin/
+**/obj/
+
+# Local secrets
+.env
+.env.local
+.env.*.local
+*.secrets.config
+
+# Runtime/test artifacts
+**/data/
+**/1_ANH_GOC_CAMERA.png
+**/2_NUA_TREN_TRANG_DEN.png
+**/3_NUA_DUOI_TRANG_DEN.png
+.doc_assets/
+.doc_render_final/
+
+# Local workspace files
+*.workspace
+*.suo
+**/node_modules/
+**/.next/
